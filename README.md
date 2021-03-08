@@ -1,2 +1,2 @@
-# titanic_project
+# Titanic project
 Are they dead or alive?
